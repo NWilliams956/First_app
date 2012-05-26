@@ -1,0 +1,20 @@
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-05-26 00:20:57 -0700
+Served asset /rails.png - 200 OK (7ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-05-26 00:21:40 -0700
+Processing by Rails::InfoController#properties as */*
+  Rendered inline template (27.0ms)
+Completed 200 OK in 68ms (Views: 68.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-05-26 00:22:42 -0700
+Served asset /rails.png - 200 OK (0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-05-26 00:33:31 -0700
+Processing by Rails::InfoController#properties as */*
+  Rendered inline template (12.0ms)
+Completed 200 OK in 53ms (Views: 51.0ms | ActiveRecord: 0.0ms)
